@@ -1,0 +1,22 @@
+# Database
+*.sqlite3
+*.db
+
+# Migrations
+**/migrations/*
+!**/migrations/__init__.py
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.idea/
+.vscode/
